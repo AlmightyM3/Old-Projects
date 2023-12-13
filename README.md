@@ -2,10 +2,10 @@
 
 These projects weren't originally planned to be shared and are in various stages of completion, so keep in mind they may still have bugs and commented-out code.
 
-<h5>Projects:</h5>
+<h4>Projects:</h4>
 <ul>
   <li>Curve - Bézier curve generator, use keys 1-4 to place points at the mouse cursor, space to generate and r for random. </li>
-  <li>Graphing - Creates parabolas and gets details about them based off of a vertex form parabola inputted by the user.</li>
+  <li>Graphing - Creates parabolas and gets details about them based on a vertex form parabola inputted by the user.</li>
   <li>Grid Engine - Test grid-based engine in which the user can set the value of tiles using the number keys. Please note this requires an image named test.png to be in the same folder as the Python file to work correctly.</li>
   <li>Wave Collapse - Basic wave function collapse algorithm using recursion built on top of my Grid Engine. </li>
   <li>3D - My first attempt at doing 3D in python myself. I used lists as I did not know about classes at the time. Roughly following 
